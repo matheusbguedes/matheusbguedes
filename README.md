@@ -9,12 +9,12 @@
 
 # 💻 Skills:
 <div style="display: flex">
-<img width="60" src="[https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)"/>
-<img width="60" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>
-<img width="60" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)"/>
-<img width="60" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)"/>
-<img width="60" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
-<img width="60" src="[https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)"/>
+<img width="60" src="(https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)"/>
+<img width="60" src="(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)"/>
+<img width="60" src="(https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)"/>
+<img width="60" src="(https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)"/>
+<img width="60" src="(https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
+<img width="60" src="(https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)"/>
 </div>
 
 ---
