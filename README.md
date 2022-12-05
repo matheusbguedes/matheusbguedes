@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/BORGESIN#0376) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mborges_zo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-borges-4a7469239/)
 
 # 💻 Skills:
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+<img width="17px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
 
 
 
