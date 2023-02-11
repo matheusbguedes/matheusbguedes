@@ -5,8 +5,6 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 ## 👻 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-borges-4a7469239/)
 
-
-
 # 💻 Skills:
 <div style="display: flex; gap: 10px;">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
