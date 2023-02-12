@@ -3,10 +3,10 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 
 ## 🌐 Social:
 <div style="display: flex; gap: 10px;">
-  <a href="https://www.linkedin.com/in/matheus-borges-coder/">
+  <a target="_blank" href="https://www.linkedin.com/in/matheus-borges-coder/">
   <img width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
   </a>
-  <a href="https://portfolio-matheus-borges.vercel.app/">
+  <a target="_blank" href="https://portfolio-matheus-borges.vercel.app/">
   <img width="30" src="https://www.svgrepo.com/show/277512/duck.svg" />
   </a>
 </div>
