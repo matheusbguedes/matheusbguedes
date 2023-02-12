@@ -6,8 +6,8 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
   <a target="_blank" href="https://www.linkedin.com/in/matheus-borges-coder/">
   <img width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
    </a>
-  <a target="_blank" href="matheusborgescode@gmail.com">
-  <img width="30" src="https://www.svgrepo.com/show/223047/gmail.svg" />
+  <a target="_blank" href=mailto:"matheusborgescode@gmail.com">
+  <img width="20" src="https://www.svgrepo.com/show/223047/gmail.svg" />
   </a>
   </a>
   <a target="_blank" href="https://portfolio-matheus-borges.vercel.app/">
