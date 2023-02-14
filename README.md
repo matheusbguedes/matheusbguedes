@@ -3,14 +3,14 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 
 ## 🌐 Social:
 <div style="display: flex; gap: 20px;">
-  <a target="blank" href="https://www.linkedin.com/in/matheus-borges-coder/">
+  <a target=”_blank" rel=”noopener” href="https://www.linkedin.com/in/matheus-borges-coder/">
   <img width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
    </a>
-  <a target="blank" href=mailto:"matheusborgescode@gmail.com">
+  <a  target=”_blank” rel=”noopener” href=mailto:"matheusborgescode@gmail.com">
   <img width="28" src="https://www.svgrepo.com/show/223047/gmail.svg" />
   </a>
   </a>
-  <a target="blank" href="https://portfolio-matheus-borges.vercel.app/">
+  <a  target=”_blank” rel=”noopener” href="https://portfolio-matheus-borges.vercel.app/">
   <img width="30" src="https://www.svgrepo.com/show/277512/duck.svg" />
   </a>
 </div>
