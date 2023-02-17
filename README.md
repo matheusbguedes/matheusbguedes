@@ -3,7 +3,7 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 
 ## 🌐 Social:
 <div style="display: flex; gap: 20px;">
-  <a target=”_blank" rel=”noopener” href="https://www.linkedin.com/in/matheus-borges-coder/">
+  <a href="https://www.linkedin.com/in/matheus-borges-coder/">{:target="_blank" rel="noopener"}
   <img width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
    </a>
   <a target=”_blank” rel=”noopener” href=mailto:"matheusborgescode@gmail.com">
