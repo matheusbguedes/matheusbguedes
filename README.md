@@ -1,23 +1,21 @@
-# 🦾 Sobre Mim:
-Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programação. Tenho 18 anos e adoro aprender e crescer como desenvolvedor. Acredito que a tecnologia pode mudar positivamente o mundo e quero fazer a minha parte nesse processo. Se você gosta de trabalhar em equipe com pessoas dedicadas e apaixonadas por tecnologia, vamos nos conectar! Estou sempre pronto para novos desafios e projetos emocionantes.<br>
 
-## 🌐 Social:
-<div style="display: flex; gap: 20px;">
-  <a target=”_blank” rel=”noopener”  href="https://www.linkedin.com/in/matheus-borges-coder/">
-  <img width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
-   </a>
-  <a target=”_blank” rel=”noopener” href=mailto:"matheusborgescode@gmail.com">
-  <img width="28" src="https://www.svgrepo.com/show/223047/gmail.svg" />
-  </a>
-  </a>
-  <a target=”_blank” rel=”noopener” href="https://portfolio-matheus-borges.vercel.app/">
-  <img width="30" src="https://www.svgrepo.com/show/277512/duck.svg" />
-  </a>
-</div>
+# 😎 Sobre Mim:
+
+Bem-vindo(a) ao meu perfil do Github! Eu sou Matheus Borges, um entusiasta da programação com uma paixão inabalável por aprender e crescer constantemente como desenvolvedor. Com apenas 18 anos, sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+
+Acredito que a tecnologia tem o poder de mudar positivamente o mundo e quero fazer minha parte nesse processo. Estou sempre procurando novos desafios e projetos emocionantes para aprimorar minhas habilidades e expandir meu conhecimento. Além disso, adoro trabalhar em equipe com pessoas dedicadas e apaixonadas por tecnologia, pois acredito que isso é fundamental para alcançar grandes conquistas.
+
+Se você compartilha do meu entusiasmo pela programação e está procurando alguém motivado e determinado a fazer a diferença, sinta-se à vontade para se conectar comigo aqui no Github.
+
+<br>
+
+## 🚀 Saiba mais:
+<img width="250" src="https://user-images.githubusercontent.com/107590628/221977112-f6f32379-bbc9-4f21-8259-5472b37e006c.svg" />
 
 <br>
 
 ## 👨🏽‍💻 Tecnologias:
+
 <div style="display: flex; gap: 10px;">
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -34,6 +32,7 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 <br>
 
 ## 🕵🏽‍♂️ Estudando:
+
 <div style="display: flex; gap: 10px;">
 <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
 <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
@@ -41,5 +40,5 @@ Olá! Meu nome é Matheus Borges e sou apaixonado por tudo que envolve programa�
 
 <br>
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Borgeta-code&icon=2&color=12)](https://visitcount.itsvg.in)
