@@ -10,9 +10,10 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 <br>
 
 ## 🚀 Saiba mais:
-<img width="250" src="https://user-images.githubusercontent.com/107590628/221977112-f6f32379-bbc9-4f21-8259-5472b37e006c.svg" />
+<img width="210" src="https://user-images.githubusercontent.com/107590628/222035720-849e4449-8b0d-4d99-af7b-cb96bc72fe22.svg" />
 
 <br>
+
 
 ## 👨🏽‍💻 Tecnologias:
 
