@@ -9,12 +9,6 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 
 <br>
 
-## 🚀 Saiba mais:
-<img width="210" src="https://user-images.githubusercontent.com/107590628/222035720-849e4449-8b0d-4d99-af7b-cb96bc72fe22.svg" />
-
-<br>
-
-
 ## 👨🏽‍💻 Tecnologias:
 
 <div style="display: flex; gap: 10px;">
@@ -38,6 +32,12 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
 <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
 </div>
+
+<br>
+
+
+## 🚀 Saiba mais:
+<img width="210" src="https://user-images.githubusercontent.com/107590628/222035720-849e4449-8b0d-4d99-af7b-cb96bc72fe22.svg" />
 
 <br>
 
