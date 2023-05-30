@@ -23,6 +23,8 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width="30" src="https://www.svgrepo.com/show/373848/mysql.svg" />
 <img width="30" src="https://www.svgrepo.com/show/452156/angular.svg" />
+<img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
+<img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
 </div>
 
 <br>
@@ -30,8 +32,7 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 ## 🕵🏽‍♂️ Estudando:
 
 <div style="display: flex; gap: 10px;">
-<img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
-<img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/452234/java.svg" />
 </div>
 
 <br>
