@@ -1,7 +1,7 @@
 
 # 😎 Sobre Mim:
 
-Bem-vindo(a) ao meu perfil do Github! Eu sou Matheus Borges, um entusiasta da programação com uma paixão inabalável por aprender e crescer constantemente como desenvolvedor. Com apenas 19 anos, sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Eu sou Matheus Borges, um entusiasta da programação com uma paixão inabalável por aprender e crescer constantemente como desenvolvedor. Com apenas 19 anos, sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
 
 Acredito que a tecnologia tem o poder de mudar positivamente o mundo e quero fazer minha parte nesse processo. Estou sempre procurando novos desafios e projetos emocionantes para aprimorar minhas habilidades e expandir meu conhecimento. Além disso, adoro trabalhar em equipe com pessoas dedicadas e apaixonadas por tecnologia, pois acredito que isso é fundamental para alcançar grandes conquistas.
 
