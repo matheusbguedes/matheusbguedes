@@ -25,23 +25,18 @@ Se você compartilha do meu entusiasmo pela programação e está procurando alg
 <img width="30" src="https://www.svgrepo.com/show/452156/angular.svg" />
 <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
 <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
+<img width="30" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img width="30" src="https://www.svgrepo.com/show/373604/flutter.svg" />
 </div>
 
 <br>
-
-## 🕵🏽‍♂️ Estudando:
-
-<div style="display: flex; gap: 10px;">
-  <img width="30" src="https://www.svgrepo.com/show/452234/java.svg" />
-</div>
-
-<br>
-
 
 ## 🚀 Saiba mais:
-<img width="210" src="https://github.com/Borgeta-code/borgeta-code/assets/107590628/1660b58c-1344-4473-8d0b-9f179b926c73" />
+<img width="210" src="https://github.com/Borgeta-code/borgeta-code/assets/107590628/555a173a-17cc-46f1-8959-46266e419426" />
 
 <br>
+
 <br>
+
 
 [![](https://visitcount.itsvg.in/api?id=Borgeta-code&icon=2&color=12)](https://visitcount.itsvg.in)
