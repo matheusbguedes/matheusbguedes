@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0066FF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Borges!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-<p align="left">Sou Matheus Borges, um apaixonado entusiasta da programação dedicado a aprender e evoluir constantemente como desenvolvedor. Aos 19 anos, já sou técnico em Desenvolvimento de Sistemas e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Minha motivação vem da vontade de impactar positivamente o mundo por meio da tecnologia.
+<p align="left">Sou Matheus Borges, um apaixonado entusiasta da programação dedicado a aprender e evoluir constantemente como desenvolvedor. Minha motivação vem da vontade de impactar positivamente o mundo por meio da tecnologia.</p>
 
 <h3 align="left">Vamos conectar!</h3>
 
