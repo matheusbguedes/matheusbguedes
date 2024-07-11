@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=100000&color=fff&random=false&width=435&height=40&lines=Hi+there+i'am+Matheus+Borges!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=100000&color=214cce&random=false&width=435&height=40&lines=Hi+there+i'am+Matheus+Borges!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 <p align="left">A passionate programming enthusiast dedicated to continuously learning and evolving as a developer. My motivation comes from the desire to positively impact the world through technology.</p>
 
