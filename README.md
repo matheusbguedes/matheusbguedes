@@ -2,22 +2,40 @@
 
 <p align="left">A passionate programming enthusiast dedicated to continuously learning and evolving as a developer. My motivation comes from the desire to positively impact the world through technology.</p>
 
-<h3 align="left">Stacks:</h3>
-
+<h3 align="left">Frontend:</h3>
 <div align="left">
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/353729/fastify-icon.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
   <img width="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   <img width="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
   <img width="30" src="https://www.svgrepo.com/show/374167/vite.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/373776/light-prisma.svg" />
   <img width="30" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/373604/flutter.svg" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/373940/nuxt.svg" />
 </div>
+
+<h3 align="left">Backend:</h3>
+<div align="left">
+  <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/353729/fastify-icon.svg" />
+  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/349342/docker.svg" />
+</div>
+
+<h3 align="left">Database:</h3>
+<div align="left">
+  <img width="30" src="https://www.svgrepo.com/show/354152/oracle.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/303460/redis-logo.svg" />
+</div>
+
+<h3 align="left">Cloud:</h3>
+<div align="left">
+  <img width="30" src="https://www.svgrepo.com/show/448266/aws.svg" />
+</div>
+
 
 <h3 align="left">Where to find me:</h3>
 
