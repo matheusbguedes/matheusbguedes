@@ -8,18 +8,19 @@
   <img width="30" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
   <img width="30" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
   <img width="30" src="https://www.svgrepo.com/show/374167/vite.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/374118/tailwind.svg" />
   <img width="30" src="https://www.svgrepo.com/show/493625/vue-vuejs-javascript-js-framework.svg" />
   <img width="30" src="https://www.svgrepo.com/show/373940/nuxt.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/452156/angular.svg" />
 </div>
 
 <h3 align="left">Backend:</h3>
 <div align="left">
   <img width="30" src="https://www.svgrepo.com/show/452075/node-js.svg" />
   <img width="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/353729/fastify-icon.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/452095/ruby.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/452091/python.svg" />
+  <img width="30" src="https://www.svgrepo.com/show/452234/java.svg" />
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width="30" src="https://www.svgrepo.com/show/349342/docker.svg" />
 </div>
 
 <h3 align="left">Database:</h3>
